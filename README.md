@@ -1,2 +1,2 @@
 # Riminder HUB
-Opensource library for machine learning models applied to Profile and Job data. http://riminder.net
+Open source library for machine learning models applied to Profile and Job data. http://riminder.net
